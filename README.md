@@ -1,5 +1,5 @@
 # Hotel-Room-Recommendation-System-Using-Image-Similarity
-## Prerequisites:
+## Prerequisites
 - Python 3.7 or above
 - Python virtual environment
 

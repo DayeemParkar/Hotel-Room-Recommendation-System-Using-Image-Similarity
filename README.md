@@ -16,7 +16,7 @@
 
 ## Steps to run setup code
 - Run [downloadImages.py](https://github.com/DayeemParkar/Hotel-Room-Recommendation-System-Using-Image-Similarity/blob/main/downloadImages.py) <br />
-Modify the range of the 'for' loop. This will help in pausing and resuming download if needed.
+Modify the range of the 'for' loop. This will help in pausing and resuming download if needed
 - Run [featureExtraction.py](https://github.com/DayeemParkar/Hotel-Room-Recommendation-System-Using-Image-Similarity/blob/main/featureExtraction.py) <br />
 If prompted whether to extract features again, enter 'yes'
 - To view a summary of the model, run [modelSummary.py](https://github.com/DayeemParkar/Hotel-Room-Recommendation-System-Using-Image-Similarity/blob/main/modelSummary.py)
